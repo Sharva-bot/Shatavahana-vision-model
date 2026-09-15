@@ -30,6 +30,6 @@ Indigenous AI ensures data sovereignty, cultural relevance, and true self-relian
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Indigenous-Body-Tracker.git
-cd Indigenous-Body-Tracker
+git clone https://github.com/Sharva-bot/Shatavahana-vision-model.git
+cd Shatavahana-vision-model
 pip install -r requirements.txt
